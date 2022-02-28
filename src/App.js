@@ -28,6 +28,8 @@ function App() {
       edgeNodeId: edgeNodeId,
     });
     streamController.resume();
+
+
     /*if (gameSession?.id) {
       await startToRecordStreamVideo(gameSession?.id);
     }
@@ -40,6 +42,7 @@ function App() {
     setConnectedTimes(new Date().getTime());
     */
   };
+
 
 React.useEffect(()=>{
 
@@ -71,7 +74,7 @@ React.useEffect(()=>{
                edgeNodeId={edgeNodeId}
                //8671fbb5-7516-470c-a1d3-df8ada794a54
                 userId={userId} // dev.onmo srini
-      //         userId={'f1a74d03-b37a-47b6-b260-7daaa79df6b0'} // dev.onmo. --sheesha
+      //         userId={'f1a74d03-b37a-47b6-b260-7daaa79df6b0'} // dev.onmo. --sheeshaf
 //                 userId={'103a1b80-4c4b-4585-8658-398f82e8a6d8'}// play.onmo. --sheesha
       //         key={'5657ad69-7557-477e-899a-83b84f464d37'}
                  enableDebug={true}
