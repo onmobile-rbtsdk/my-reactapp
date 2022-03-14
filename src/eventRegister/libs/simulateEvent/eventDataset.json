@@ -1,0 +1,1370 @@
+{
+  "gameSessionId": "ae70fb17-8cd6-458a-aa22-e732e35b2e37",
+  "data": [
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mouseup\",\"screenX\":1173,\"screenY\":939,\"clientX\":563,\"clientY\":654}",
+      "time": 8457
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":563,\"clientY\":654}",
+      "time": 8454
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":563,\"clientY\":654}",
+      "time": 8439
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":563,\"clientY\":654}",
+      "time": 8436
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":563,\"clientY\":654}",
+      "time": 8383
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":563,\"clientY\":654}",
+      "time": 8369
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":563,\"clientY\":655}",
+      "time": 8359
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":563,\"clientY\":655}",
+      "time": 8343
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":563,\"clientY\":655}",
+      "time": 8335
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":562,\"clientY\":655}",
+      "time": 8327
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":562,\"clientY\":655}",
+      "time": 8303
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":562,\"clientY\":656}",
+      "time": 8287
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":562,\"clientY\":656}",
+      "time": 8271
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":562,\"clientY\":656}",
+      "time": 8268
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":562,\"clientY\":656}",
+      "time": 8253
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":562,\"clientY\":656}",
+      "time": 8240
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":562,\"clientY\":656}",
+      "time": 8235
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":561,\"clientY\":656}",
+      "time": 8224
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":561,\"clientY\":656}",
+      "time": 8208
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":561,\"clientY\":657}",
+      "time": 8202
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":561,\"clientY\":657}",
+      "time": 8192
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":561,\"clientY\":657}",
+      "time": 8137
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":561,\"clientY\":657}",
+      "time": 8123
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":561,\"clientY\":656}",
+      "time": 8115
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":561,\"clientY\":656}",
+      "time": 8105
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":561,\"clientY\":655}",
+      "time": 8091
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":561,\"clientY\":654}",
+      "time": 8082
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":561,\"clientY\":653}",
+      "time": 8073
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":561,\"clientY\":652}",
+      "time": 8070
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":561,\"clientY\":652}",
+      "time": 8057
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":561,\"clientY\":651}",
+      "time": 8051
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":561,\"clientY\":651}",
+      "time": 8041
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":562,\"clientY\":650}",
+      "time": 8035
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":562,\"clientY\":650}",
+      "time": 8025
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":562,\"clientY\":650}",
+      "time": 8019
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":562,\"clientY\":649}",
+      "time": 8009
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":563,\"clientY\":649}",
+      "time": 8003
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":563,\"clientY\":649}",
+      "time": 7993
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":564,\"clientY\":649}",
+      "time": 7985
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":564,\"clientY\":649}",
+      "time": 7977
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":565,\"clientY\":649}",
+      "time": 7969
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":565,\"clientY\":649}",
+      "time": 7961
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":566,\"clientY\":649}",
+      "time": 7953
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":567,\"clientY\":649}",
+      "time": 7937
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":568,\"clientY\":649}",
+      "time": 7934
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":569,\"clientY\":649}",
+      "time": 7921
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":569,\"clientY\":649}",
+      "time": 7919
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":569,\"clientY\":649}",
+      "time": 7906
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":570,\"clientY\":650}",
+      "time": 7905
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":570,\"clientY\":650}",
+      "time": 7892
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":571,\"clientY\":650}",
+      "time": 7874
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":571,\"clientY\":651}",
+      "time": 7868
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":572,\"clientY\":651}",
+      "time": 7858
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":572,\"clientY\":651}",
+      "time": 7853
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":573,\"clientY\":652}",
+      "time": 7842
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":573,\"clientY\":653}",
+      "time": 7835
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":574,\"clientY\":654}",
+      "time": 7826
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":574,\"clientY\":655}",
+      "time": 7822
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":575,\"clientY\":656}",
+      "time": 7814
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":576,\"clientY\":657}",
+      "time": 7803
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":578,\"clientY\":662}",
+      "time": 7788
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":580,\"clientY\":664}",
+      "time": 7786
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":581,\"clientY\":667}",
+      "time": 7770
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":583,\"clientY\":669}",
+      "time": 7767
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":585,\"clientY\":672}",
+      "time": 7755
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":588,\"clientY\":676}",
+      "time": 7753
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":591,\"clientY\":680}",
+      "time": 7739
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":594,\"clientY\":685}",
+      "time": 7737
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":597,\"clientY\":690}",
+      "time": 7722
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":602,\"clientY\":696}",
+      "time": 7719
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":606,\"clientY\":703}",
+      "time": 7707
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":612,\"clientY\":713}",
+      "time": 7701
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":614,\"clientY\":717}",
+      "time": 7691
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":624,\"clientY\":729}",
+      "time": 7686
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":633,\"clientY\":742}",
+      "time": 7677
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":645,\"clientY\":757}",
+      "time": 7667
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":651,\"clientY\":764}",
+      "time": 7659
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":666,\"clientY\":778}",
+      "time": 7653
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":680,\"clientY\":791}",
+      "time": 7646
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":695,\"clientY\":801}",
+      "time": 7639
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":718,\"clientY\":815}",
+      "time": 7622
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":742,\"clientY\":827}",
+      "time": 7607
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":751,\"clientY\":830}",
+      "time": 7589
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousedown\",\"screenX\":1173,\"screenY\":939,\"clientX\":755,\"clientY\":830}",
+      "time": 7470
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mouseup\",\"screenX\":1173,\"screenY\":939,\"clientX\":634,\"clientY\":622}",
+      "time": 5927
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":634,\"clientY\":622}",
+      "time": 5920
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":634,\"clientY\":622}",
+      "time": 5839
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":634,\"clientY\":622}",
+      "time": 5836
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":634,\"clientY\":622}",
+      "time": 5823
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":635,\"clientY\":622}",
+      "time": 5817
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":635,\"clientY\":622}",
+      "time": 5807
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":636,\"clientY\":622}",
+      "time": 5803
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":636,\"clientY\":622}",
+      "time": 5791
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":637,\"clientY\":622}",
+      "time": 5787
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":638,\"clientY\":622}",
+      "time": 5776
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":638,\"clientY\":622}",
+      "time": 5769
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":639,\"clientY\":622}",
+      "time": 5759
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":640,\"clientY\":622}",
+      "time": 5753
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":641,\"clientY\":622}",
+      "time": 5746
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":642,\"clientY\":622}",
+      "time": 5737
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":644,\"clientY\":622}",
+      "time": 5721
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":646,\"clientY\":623}",
+      "time": 5720
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":647,\"clientY\":623}",
+      "time": 5706
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":649,\"clientY\":623}",
+      "time": 5689
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":651,\"clientY\":623}",
+      "time": 5682
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":652,\"clientY\":624}",
+      "time": 5673
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":654,\"clientY\":624}",
+      "time": 5656
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":656,\"clientY\":624}",
+      "time": 5652
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":657,\"clientY\":625}",
+      "time": 5640
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":659,\"clientY\":625}",
+      "time": 5636
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":661,\"clientY\":625}",
+      "time": 5627
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":663,\"clientY\":625}",
+      "time": 5619
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":665,\"clientY\":626}",
+      "time": 5608
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":666,\"clientY\":626}",
+      "time": 5600
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":670,\"clientY\":627}",
+      "time": 5592
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":672,\"clientY\":627}",
+      "time": 5587
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":674,\"clientY\":627}",
+      "time": 5576
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":677,\"clientY\":628}",
+      "time": 5569
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":678,\"clientY\":628}",
+      "time": 5560
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":680,\"clientY\":629}",
+      "time": 5553
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":682,\"clientY\":630}",
+      "time": 5551
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":685,\"clientY\":630}",
+      "time": 5537
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":687,\"clientY\":632}",
+      "time": 5534
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":690,\"clientY\":632}",
+      "time": 5522
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":694,\"clientY\":634}",
+      "time": 5506
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":701,\"clientY\":637}",
+      "time": 5489
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":704,\"clientY\":638}",
+      "time": 5488
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":707,\"clientY\":640}",
+      "time": 5473
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":710,\"clientY\":641}",
+      "time": 5469
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":712,\"clientY\":642}",
+      "time": 5458
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":714,\"clientY\":643}",
+      "time": 5457
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":716,\"clientY\":645}",
+      "time": 5442
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":717,\"clientY\":647}",
+      "time": 5436
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":719,\"clientY\":648}",
+      "time": 5426
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":720,\"clientY\":649}",
+      "time": 5420
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":721,\"clientY\":650}",
+      "time": 5410
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":722,\"clientY\":651}",
+      "time": 5402
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":723,\"clientY\":652}",
+      "time": 5393
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":725,\"clientY\":653}",
+      "time": 5387
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":726,\"clientY\":655}",
+      "time": 5378
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":727,\"clientY\":657}",
+      "time": 5370
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":730,\"clientY\":661}",
+      "time": 5353
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":731,\"clientY\":662}",
+      "time": 5351
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":732,\"clientY\":664}",
+      "time": 5338
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":735,\"clientY\":669}",
+      "time": 5336
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":736,\"clientY\":671}",
+      "time": 5322
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":737,\"clientY\":674}",
+      "time": 5317
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":738,\"clientY\":676}",
+      "time": 5306
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":740,\"clientY\":679}",
+      "time": 5301
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":741,\"clientY\":683}",
+      "time": 5291
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":743,\"clientY\":687}",
+      "time": 5286
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":744,\"clientY\":691}",
+      "time": 5275
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":746,\"clientY\":696}",
+      "time": 5272
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":748,\"clientY\":701}",
+      "time": 5258
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":749,\"clientY\":706}",
+      "time": 5252
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":751,\"clientY\":712}",
+      "time": 5242
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":753,\"clientY\":720}",
+      "time": 5235
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":755,\"clientY\":729}",
+      "time": 5227
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":757,\"clientY\":737}",
+      "time": 5219
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":760,\"clientY\":748}",
+      "time": 5210
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":761,\"clientY\":755}",
+      "time": 5202
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":764,\"clientY\":767}",
+      "time": 5200
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":767,\"clientY\":778}",
+      "time": 5187
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":771,\"clientY\":789}",
+      "time": 5186
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":774,\"clientY\":798}",
+      "time": 5171
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":777,\"clientY\":804}",
+      "time": 5167
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":780,\"clientY\":812}",
+      "time": 5155
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":782,\"clientY\":815}",
+      "time": 5151
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":783,\"clientY\":817}",
+      "time": 5139
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":784,\"clientY\":820}",
+      "time": 5136
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":784,\"clientY\":822}",
+      "time": 5123
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":785,\"clientY\":823}",
+      "time": 5119
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":785,\"clientY\":825}",
+      "time": 5108
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":785,\"clientY\":826}",
+      "time": 5103
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":785,\"clientY\":827}",
+      "time": 5091
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousedown\",\"screenX\":1173,\"screenY\":939,\"clientX\":785,\"clientY\":827}",
+      "time": 4952
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mouseup\",\"screenX\":1173,\"screenY\":939,\"clientX\":546,\"clientY\":677}",
+      "time": 4089
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":546,\"clientY\":677}",
+      "time": 4075
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":546,\"clientY\":676}",
+      "time": 4070
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":546,\"clientY\":676}",
+      "time": 4058
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":546,\"clientY\":676}",
+      "time": 4042
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":546,\"clientY\":676}",
+      "time": 3984
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":546,\"clientY\":676}",
+      "time": 3955
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":546,\"clientY\":676}",
+      "time": 3953
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":546,\"clientY\":677}",
+      "time": 3939
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":547,\"clientY\":677}",
+      "time": 3936
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":547,\"clientY\":677}",
+      "time": 3923
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":547,\"clientY\":677}",
+      "time": 3919
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":547,\"clientY\":678}",
+      "time": 3907
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":547,\"clientY\":678}",
+      "time": 3903
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":548,\"clientY\":679}",
+      "time": 3891
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":548,\"clientY\":679}",
+      "time": 3887
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":548,\"clientY\":680}",
+      "time": 3875
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":549,\"clientY\":681}",
+      "time": 3869
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":549,\"clientY\":682}",
+      "time": 3860
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":550,\"clientY\":683}",
+      "time": 3853
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":550,\"clientY\":685}",
+      "time": 3851
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":551,\"clientY\":686}",
+      "time": 3846
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":688}",
+      "time": 3834
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":690}",
+      "time": 3821
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":692}",
+      "time": 3805
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":695}",
+      "time": 3789
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":699}",
+      "time": 3772
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":702}",
+      "time": 3771
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":707}",
+      "time": 3756
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":714}",
+      "time": 3754
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":716}",
+      "time": 3740
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":727}",
+      "time": 3737
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":732}",
+      "time": 3725
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":739}",
+      "time": 3721
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":762}",
+      "time": 3708
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":774}",
+      "time": 3702
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":783}",
+      "time": 3692
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":792}",
+      "time": 3687
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":799}",
+      "time": 3676
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":808}",
+      "time": 3668
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":813}",
+      "time": 3661
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":818}",
+      "time": 3653
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":816}",
+      "time": 3653
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":821}",
+      "time": 3639
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousedown\",\"screenX\":1173,\"screenY\":939,\"clientX\":552,\"clientY\":822}",
+      "time": 3522
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mouseup\",\"screenX\":1173,\"screenY\":939,\"clientX\":422,\"clientY\":690}",
+      "time": 2617
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":422,\"clientY\":690}",
+      "time": 2606
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":422,\"clientY\":689}",
+      "time": 2582
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":423,\"clientY\":689}",
+      "time": 2556
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":423,\"clientY\":689}",
+      "time": 2540
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":423,\"clientY\":689}",
+      "time": 2524
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":423,\"clientY\":689}",
+      "time": 2521
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":423,\"clientY\":690}",
+      "time": 2508
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":423,\"clientY\":690}",
+      "time": 2503
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":423,\"clientY\":691}",
+      "time": 2492
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":423,\"clientY\":692}",
+      "time": 2487
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":424,\"clientY\":693}",
+      "time": 2476
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":424,\"clientY\":694}",
+      "time": 2470
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":424,\"clientY\":695}",
+      "time": 2460
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":424,\"clientY\":696}",
+      "time": 2455
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":424,\"clientY\":698}",
+      "time": 2444
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":424,\"clientY\":700}",
+      "time": 2437
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":424,\"clientY\":701}",
+      "time": 2432
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":424,\"clientY\":703}",
+      "time": 2422
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":424,\"clientY\":704}",
+      "time": 2415
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":424,\"clientY\":706}",
+      "time": 2405
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":424,\"clientY\":708}",
+      "time": 2403
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":424,\"clientY\":709}",
+      "time": 2390
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":711}",
+      "time": 2383
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":712}",
+      "time": 2373
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":714}",
+      "time": 2367
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":716}",
+      "time": 2358
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":719}",
+      "time": 2341
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":721}",
+      "time": 2338
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":723}",
+      "time": 2326
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":725}",
+      "time": 2321
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":727}",
+      "time": 2310
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":730}",
+      "time": 2305
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":733}",
+      "time": 2293
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":734}",
+      "time": 2287
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":738}",
+      "time": 2280
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":742}",
+      "time": 2271
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":746}",
+      "time": 2265
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":749}",
+      "time": 2256
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":753}",
+      "time": 2250
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":757}",
+      "time": 2241
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":761}",
+      "time": 2234
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":765}",
+      "time": 2225
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":769}",
+      "time": 2217
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":772}",
+      "time": 2206
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":775}",
+      "time": 2199
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":778}",
+      "time": 2190
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":781}",
+      "time": 2182
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":783}",
+      "time": 2174
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":785}",
+      "time": 2170
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousemove\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":786}",
+      "time": 2159
+    },
+    {
+      "type": "INPUT",
+      "data": "{\"type\":\"mousedown\",\"screenX\":1173,\"screenY\":939,\"clientX\":425,\"clientY\":786}",
+      "time": 2040
+    }
+  ]
+}

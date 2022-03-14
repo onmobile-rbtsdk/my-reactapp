@@ -1,0 +1,221 @@
+import { createUseStyles } from "react-jss";
+import { ITheme } from "../../../types/theme";
+
+export const useStyles = createUseStyles((theme: ITheme) => ({
+  wrapper: {
+    position: "absolute",
+    zIndex: 100,
+    height: 80,
+    width: "100%",
+    minHeight: 80,
+    maxHeight: 80,
+    background: "#222223",
+    top: 0,
+    left: 0,
+    "@media(max-height: 667px)": {
+      height: 64,
+    },
+    "@media (min-height: 668px) and (max-height: 736px)": {
+      height: 72,
+    },
+    "@media (orientation: landscape)": {
+      width: 80,
+      height: "calc(100vh - calc(100vh - 100%))",
+      minHeight: "100vh",
+      left: "unset",
+      right: 0,
+    },
+  },
+  mainContent: {
+    position: "relative",
+    zIndex: 102,
+    display: "flex",
+    alignItems: "flex-start",
+    justifyContent: "space-between",
+    width: "100%",
+    height: "100%",
+    "@media (orientation: landscape)": {
+      flexDirection: "column",
+      paddingLeft: 3,
+      height: "100%",
+      alignItems: "center",
+    },
+  },
+  OnmoLogo: {
+    marginTop: 7,
+    marginLeft: 17,
+    height: 58,
+    width: 58,
+    "@media (orientation: landscape)": {
+      marginTop: 17,
+      marginRight: 7,
+      marginLeft: "unset",
+    },
+    "@media (max-height: 750px) ": {
+      height: 45,
+      width: 45,
+    },
+  },
+  current_results: {
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  micIcon: {
+    height: 48,
+    width: 48,
+    marginTop: 12,
+    marginRight: 22,
+    "@media (orientation: landscape)": {
+      marginTop: "unset",
+      marginLeft: 5,
+      marginBottom: 22,
+    },
+    "@media (max-height: 750px) ": {
+      height: 35,
+      width: 35,
+    },
+  },
+  momentType: {
+    height: 23,
+    fontSize: 15,
+    lineHeight: "20px",
+    display: "flex",
+    alignItems: "center",
+    textAlign: "center",
+    letterSpacing: -0.2,
+    color: "#FFFFFF",
+    textTransform: "capitalize",
+  },
+  score: {
+    height: 35,
+    width: 180,
+    background: "linear-gradient(180deg, #171717 0%, #262525 88.85%, #4D574C 100%)",
+    borderRadius: 50,
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+    textAlign: "center",
+    "@media (orientation: landscape)": {
+      width: 65,
+    },
+    "& > p": {
+      fontFamily: "'Gugi', cursive",
+      color: "#fff",
+      fontSize: 24,
+      "@media (orientation: landscape)": {
+        fontSize: 16,
+      },
+    },
+  },
+  net_speed: {
+    position: "absolute",
+    zIndex: 105,
+    top: 2,
+    right: 9,
+    height: 24,
+    width: 28,
+    "@media (max-height: 750px) ": {
+      height: 24,
+      width: 20,
+    },
+  },
+  timeDisplay: {
+    position: "absolute",
+    zIndex: 110,
+    bottom: 3,
+    width: "100Vw",
+    fontFamily: "'Gugi', cursive",
+    fontSize: 12,
+    color: "#FAFAFA",
+    "@media (orientation: landscape)": {
+      right: 9,
+      height: "100Vh",
+      top: 0,
+      width: 60,
+      touchAction: "none",
+      pointerEvents: "none",
+    },
+    "@media (max-height: 600px) ": {
+      fontSize: 10,
+    },
+  },
+  rootTimer: {
+    height: 3,
+    width: "100%",
+    position: "absolute",
+    bottom: 0,
+    overflow: "hidden",
+    background: "linear-gradient(180deg, #000000 0%, #313131 100%)",
+    "@media (orientation: landscape)": {
+      transform: "rotate(-90deg)",
+      width: "100vh",
+      bottom: "50%",
+      left: "calc(-50vh + 77px)",
+    },
+  },
+  barColorPrimaryTimer: {
+    height: "100%",
+    width: "100%",
+    background: "#489F85 !important",
+  },
+  slideUp: {
+    "@media (orientation: portrait)": {
+      transform: "translateY(-100%) !important",
+      transition: "1s ease-in-out",
+    },
+    "@media (orientation: landscape)": {
+      display: "none",
+    },
+  },
+  "@keyframes autoplay2": {
+    "0%": { top: "100%" },
+    "20%": { top: "0" },
+    "100%": { top: "0" },
+  },
+  countDown: {
+    height: 220,
+    width: "100%",
+    top: 0,
+    left: 0,
+    position: "absolute",
+    overflow: "hidden",
+    marginTop: 45,
+    zIndex: 90,
+    "& > div": {
+      width: "100%",
+      position: "absolute",
+      top: "100%",
+      left: 0,
+      animation: `1s $autoplay2 linear`,
+    },
+  },
+  item1: {
+    "& > p": {
+      textAlign: "center",
+      fontSize: 200,
+      color: "#fff",
+      margin: 0,
+      fontWeight: 800,
+    },
+  },
+  item2: {
+    "& > p": {
+      textAlign: "center",
+      fontSize: 200,
+      color: "#fff",
+      margin: 0,
+      fontWeight: 800,
+    },
+  },
+  item3: {
+    "& > p": {
+      textAlign: "center",
+      fontSize: 200,
+      color: "#fff",
+      margin: 0,
+      fontWeight: 800,
+    },
+  },
+}));

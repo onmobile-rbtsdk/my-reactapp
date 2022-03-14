@@ -1,0 +1,1 @@
+export { EventsRegister } from "./libs";

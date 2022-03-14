@@ -1,7 +1,9 @@
 import "./App.css";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { StreamingView } from "streaming-view-sdk";
 import { StreamingController } from "streaming-view-sdk";
+import HtmlGame from "./HtmlGame/HtmlGame";
+import HtmlGameV2 from "./HtmlGame/HtmlGameV2";
 
 const apiEndpoint = "https://streaming-api.appland-stream.com";
 
@@ -10,6 +12,18 @@ function App() {
   const params = new URLSearchParams(search);
   const edgeNodeId = params.get("edgeNodeId");
   const userId = params.get("userId");
+  const gameSessionString = params.get("gameSession");
+  let gameSession = null;
+  if (edgeNodeId === "HTML") {
+    try{
+    gameSession = JSON.parse(gameSessionString);
+    }
+    catch(e){
+      alert(e.message);
+    }
+  }
+  const [isLoaded, setLoaded] = useState(false);
+  const [isHardwareBackPressed, setHardwareBackPressed] = useState(false);
 
   const startPlaying = async () => {
     console.log("startPlaying edgeNodeId -->" + edgeNodeId);
@@ -45,6 +59,9 @@ function App() {
     if (message.data === "TERMINATE") {
       stopPlaying();
     }
+    else if (message.data === "HARDWARE_BACK") {
+      setHardwareBackPressed(true);
+    }
   };
 
   useEffect(() => {
@@ -58,14 +75,34 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <StreamingView
-          apiEndpoint={apiEndpoint}
-          edgeNodeId={edgeNodeId}
-          userId={userId}
-          enableDebug={true}
-          enableControl={true}
-          enableFullScreen={false}
-        ></StreamingView>
+        {edgeNodeId !== "HTML" ? (
+          <StreamingView
+            apiEndpoint={apiEndpoint}
+            edgeNodeId={edgeNodeId}
+            userId={userId}
+            enableDebug={true}
+            enableControl={true}
+            enableFullScreen={false}
+          ></StreamingView>
+        ) : (
+          <HtmlGame
+            gameSession={gameSession}
+            started={!isLoaded}
+            setIsLoadingGame={isLoaded}
+            setIsLoadedCallback={(status) => {
+              // alert('loaded=' +status)
+              setLoaded(status);
+            }}
+            setLoadedPercentage={(per) => {
+              //  alert(per)
+            }}
+            endSession={(temp)=>{
+              window.ReactNativeWebView.postMessage(temp);
+            }}
+            isHardwareBackPressed={isHardwareBackPressed}
+            setHardwareBackPressed={setHardwareBackPressed}
+          />
+        )}
       </header>
     </div>
   );
