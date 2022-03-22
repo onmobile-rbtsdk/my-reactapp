@@ -1,0 +1,12 @@
+declare module "*.ttf";
+declare module "streaming-view-sdk";
+declare module "enzyme";
+declare module "mdi-material-ui";
+declare module "react-ios-pwa-prompt";
+declare module "yup";
+declare module "material-ui-phone-number";
+declare module "query-string";
+declare module "uuid";
+declare module "k-convert";
+declare module "rob0-model";
+declare module "*.mp4";

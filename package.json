@@ -4,16 +4,26 @@
   "private": true,
   "devDependencies": {
     "@types/classnames": "^2.2.11",
+    "@types/flatbuffers": "^1.10.0",
     "@types/lodash-es": "^4.17.6",
     "@types/react": "^17.0.40",
-    "@types/react-router-dom": "^5.3.3"
+    "@types/react-router-dom": "^5.3.3",
+    "@types/sha1": "^1.1.2",
+    "@types/uuid": "^8.3.4"
   },
   "dependencies": {
     "@aws-amplify/storage": "^4.3.1",
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "aws4": "^1.11.0",
+    "flatbuffers": "^1.12.0",
+    "graphql": "^15.5.3",
+    "graphql-tag": "^2.12.5",
+    "html-to-image": "^1.3.21",
     "lodash-es": "^4.17.21",
+    "moment": "2.29.1",
+    "query-string": "^7.1.1",
     "react": "^17.0.2",
     "react-device-detect": "1.17.0",
     "react-dom": "^17.0.2",
@@ -21,13 +31,14 @@
     "react-jss": "^10.9.0",
     "react-router-dom": "5.2.0",
     "react-scripts": "4.0.3",
-    "streaming-view-sdk": "git+https://appland-node@bitbucket.org/appland/streaming-view-sdk.git#20220302-1",
-    "web-vitals": "^1.1.2",
+    "sha1": "^1.1.1",
     "socket.io-client": "^4.2.0",
-    "moment": "2.29.1",
-    "graphql": "^15.5.3",
-    "graphql-tag": "^2.12.5"
-},
+    "streaming-view-sdk": "git+https://appland-node@bitbucket.org/appland/streaming-view-sdk.git#20220302-1",
+    "typescript": "^4.6.2",
+    "uuid": "^8.3.2",
+    "web-vitals": "^1.1.2",
+    "@apollo/react-hooks": "^4.0.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
