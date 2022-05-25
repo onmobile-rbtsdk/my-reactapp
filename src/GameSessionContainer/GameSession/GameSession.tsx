@@ -187,11 +187,12 @@ export const GameSession = (props: any) => {
     if (isBattleSession) {
       setStreamStatus(STREAM_STATUS.SHOW_END_SCREEN);
     } else {
-      if (history.length > 1) {
-        history.go(-1);
-      } else {
-        history.push("/");
-      }
+      setStreamStatus(STREAM_STATUS.SHOW_END_SCREEN);
+      // if (history.length > 1) {
+      //   history.go(-1);
+      // } else {
+      //   history.push("/");
+      // }
     }
   };
 
